@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anas
 - 👀 I’m interested in anything related to Electronics
-- 🌱 I’m currently learning Arduino,CST Studio
+- 🌱 I’m currently learning Python & contributing in python
 - 💞️ I’m looking to collaborate on verilog/python projects
 
 <!---
