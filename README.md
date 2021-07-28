@@ -1,7 +1,7 @@
 - 👋 Hi, there.
-- 👀 I’m interested in anything related to Electronics
+- 👀 I’m interested in Machine learning and data science.
 - 🌱 I’m currently learning Python & contributing in python
-- 💞️ I’m looking to collaborate on verilog/python projects
+- 💞️ I’m looking to collaborate on verilog/python/ML projects
 
 <!---
 geekboi777/geekboi777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
