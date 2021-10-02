@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">An undergraduate student at Bits Pilani, Hyderabad.</h3>
 
-- 🌱 I’m currently learning **ML,DL,DSA.**
-
-- 👯 I’m looking to collaborate on **python/ML/DL projects.**
-
 - 📫 How to reach me **geekboi777@gmail.com**
 
 
