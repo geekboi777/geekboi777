@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Anas</h1>
-<h3 align="center">An undergraduate student at Bits Pilani pursuing a major in Electronics & Communication Engineering.</h3>
+<h3 align="center">An undergraduate final year student at Bits Pilani pursuing a major in Electronics & Communication Engineering.</h3>
 
 - 📫 How to reach me **geekboi777@gmail.com**
 
