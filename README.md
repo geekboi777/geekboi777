@@ -1,5 +1,7 @@
 <h1 align="center">Hey, I'm Anas</h1>
 <h3 align="center">An undergraduate final year student at Bits Pilani pursuing a major in Electronics & Communication Engineering.</h3>
+<h3 align="center">I am interested in Computer Organization and Architecture, Quantum-dot cellular Automata, and Digital Design. I have published one paper with another paper being currently under review in IEEE.</h3>
+
 
 - 📫 How to reach me **geekboi777@gmail.com**
 
